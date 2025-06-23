@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\C#\\SinemaOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|a:\\c#\\sinemaotomasyonu\\sinemaotomasyonu\\yonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\yonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\ulistearaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\ulistearaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\oyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\oyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\olistearaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\olistearaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formyonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formyonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formyonetmenkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formyonetmenkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formsalonkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formsalonkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formsalonatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formsalonatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formoyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formoyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formoyuncukayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formoyuncukayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formfilmliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formfilmliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formfilmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formfilmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formbiletsorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formbiletsorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|A:\\C#\\SinemaOtomasyonu\\sinemaotomasyonu\\filmlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84FB19-EF7F-44B4-BF2E-C80769A893C1}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\filmlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YonetmenListesi.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\YonetmenListesi.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\YonetmenListesi.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\YonetmenListesi.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\YonetmenListesi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:17:09.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uListeAraci.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\uListeAraci.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\uListeAraci.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\uListeAraci.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\uListeAraci.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:16:47.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalonListesi.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\SalonListesi.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\SalonListesi.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\SalonListesi.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\SalonListesi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:16:27.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Program.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\Program.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:16:17.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OyuncuListesi.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\OyuncuListesi.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\OyuncuListesi.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\OyuncuListesi.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\OyuncuListesi.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:16:05.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "oListeAraci.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\oListeAraci.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\oListeAraci.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\oListeAraci.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\oListeAraci.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:15:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormYonetmenListesi.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormYonetmenListesi.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormYonetmenListesi.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormYonetmenListesi.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormYonetmenListesi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:15:23.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormYonetmenKayit.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormYonetmenKayit.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormYonetmenKayit.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormYonetmenKayit.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormYonetmenKayit.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:15:07.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormSalonKayit.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormSalonKayit.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormSalonKayit.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormSalonKayit.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormSalonKayit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:14:50.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormSalonAtama.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormSalonAtama.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormSalonAtama.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormSalonAtama.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormSalonAtama.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:14:39.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormOyuncuListesi.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormOyuncuListesi.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormOyuncuListesi.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormOyuncuListesi.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormOyuncuListesi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:14:23.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormOyuncuKayit.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormOyuncuKayit.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormOyuncuKayit.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormOyuncuKayit.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormOyuncuKayit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:13:58.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormOpen.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormOpen.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormOpen.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormOpen.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormOpen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:13:25.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormFilmListe.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormFilmListe.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormFilmListe.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormFilmListe.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormFilmListe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:12:47.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormFilmKayit.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormFilmKayit.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormFilmKayit.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormFilmKayit.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormFilmKayit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:12:30.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormFilmDetay.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormFilmDetay.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormFilmDetay.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormFilmDetay.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormFilmDetay.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:12:19.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormBiletSorgula.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormBiletSorgula.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormBiletSorgula.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormBiletSorgula.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormBiletSorgula.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:11:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormBiletOlustur.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormBiletOlustur.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormBiletOlustur.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormBiletOlustur.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormBiletOlustur.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:38:16.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormBiletDetay.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormBiletDetay.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormBiletDetay.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormBiletDetay.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormBiletDetay.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:37:39.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormAnaForm.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormAnaForm.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FormAnaForm.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FormAnaForm.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FormAnaForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:37:10.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilmListesi.cs",
+              "DocumentMoniker": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FilmListesi.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\FilmListesi.cs",
+              "ToolTip": "A:\\C#\\SinemaOtomasyonu\\SinemaOtomasyonu\\FilmListesi.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\FilmListesi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:31:35.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
